@@ -1,0 +1,102 @@
+[
+  {
+    "value": "alimentacion",
+    "synonyms": [
+      "alimentacion",
+      "comida",
+      "que come",
+      "dieta",
+      "alimentar",
+      "que le doy de comer",
+      "necesita dieta",
+      "que tiene que comer"
+    ]
+  },
+  {
+    "value": "agua",
+    "synonyms": [
+      "agua",
+      "beber",
+      "cuanta agua",
+      "cuanto tiene que beber",
+      "hidratarse",
+      "hidratacion"
+    ]
+  },
+  {
+    "value": "ejercicio",
+    "synonyms": [
+      "ejercicio",
+      "movimiento",
+      "ejercitarse",
+      "hacer ejercicio",
+      "hacer movilidad",
+      "moverse",
+      "jugar",
+      "actividad fisica",
+      "pasear",
+      "correr"
+    ]
+  },
+  {
+    "value": "vacunas",
+    "synonyms": [
+      "vacunas",
+      "pincharse",
+      "vacunarse",
+      "inyectarse algo",
+      "vacunacion",
+      "calendario de vacunas",
+      "inyectarse medicinas",
+      "poner vacunas"
+    ]
+  },
+  {
+    "value": "desparasitacion",
+    "synonyms": [
+      "desparasitacion",
+      "desparasitarse",
+      "antiparasitario",
+      "pulgas",
+      "garrapatas",
+      "quitarse bichos"
+    ]
+  },
+  {
+    "value": "higiene",
+    "synonyms": [
+      "higiene",
+      "bañarse",
+      "baño",
+      "bañar",
+      "bañarlo",
+      "cepillarlo",
+      "cepillarse los dientes",
+      "limpiarlo",
+      "limpieza",
+      "cepillar"
+    ]
+  },
+  {
+    "value": "revision",
+    "synonyms": [
+      "revision",
+      "revisiones",
+      "revision veterinaria",
+      "visitar al veterinario",
+      "chequeo",
+      "revisar"
+    ]
+  },
+  {
+    "value": "signos_alarma",
+    "synonyms": [
+      "signos de alarma",
+      "señales de alarma",
+      "sintomas de alarma",
+      "cuando preocuparse",
+      "que sintomas tengo que ver",
+      "qué debo fijarme"
+    ]
+  }
+]

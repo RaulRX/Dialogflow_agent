@@ -1,0 +1,393 @@
+[
+  {
+    "id": "fe2c8bc3-656a-4e76-8c06-ca68238eeedd",
+    "data": [
+      {
+        "text": "¿y para un ",
+        "userDefined": false
+      },
+      {
+        "text": "uron",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9f48efae-493d-4982-87b4-cc1ddc78e425",
+    "data": [
+      {
+        "text": "¿y qué me dices con respecto a las ",
+        "userDefined": false
+      },
+      {
+        "text": "vacunas",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a413b5f2-83d5-452e-bc02-139e0ba50645",
+    "data": [
+      {
+        "text": "¿y qué ",
+        "userDefined": false
+      },
+      {
+        "text": "signos de alarma",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " debo tener en cuenta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1aa0fd6a-066d-423b-bb79-e60cb6b44352",
+    "data": [
+      {
+        "text": "¿y la ",
+        "userDefined": false
+      },
+      {
+        "text": "desparasitación",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " de un ",
+        "userDefined": false
+      },
+      {
+        "text": "huron",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6aefe059-e683-4fea-a68f-37c493f47f4f",
+    "data": [
+      {
+        "text": "y qué ",
+        "userDefined": false
+      },
+      {
+        "text": "revisiones",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": " estan prescritas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f8c5a109-e0a5-4ad3-b423-f9df6e7d64a7",
+    "data": [
+      {
+        "text": "¿y la ",
+        "userDefined": false
+      },
+      {
+        "text": "revisión",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2712088b-c01f-47a8-a96d-682a62e39e48",
+    "data": [
+      {
+        "text": "¿y los ",
+        "userDefined": false
+      },
+      {
+        "text": "signos de alarma",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c72f5e31-647b-4158-9b34-649332d0b76b",
+    "data": [
+      {
+        "text": "¿y ",
+        "userDefined": false
+      },
+      {
+        "text": "qué sintomas tengo que ver",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "135d1115-d5a0-4f9a-8196-d3d156dbc12f",
+    "data": [
+      {
+        "text": "¿y la ",
+        "userDefined": false
+      },
+      {
+        "text": "higiene",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4971bf00-0887-4637-bf2a-c3d7a3ca91e3",
+    "data": [
+      {
+        "text": "¿y el ",
+        "userDefined": false
+      },
+      {
+        "text": "ejercicio",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "266ea178-3773-42b7-b647-8de1c905ed29",
+    "data": [
+      {
+        "text": "¿y las ",
+        "userDefined": false
+      },
+      {
+        "text": "vacunas",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "137a0c83-138a-4392-94fe-bd96fb0f4319",
+    "data": [
+      {
+        "text": "¿y el ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "07b67ef5-1271-4441-94ca-8f3f2c78dab6",
+    "data": [
+      {
+        "text": "¿y la ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentación",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "921cedec-4544-4f9b-a5b5-0d7260a31550",
+    "data": [
+      {
+        "text": "¿y para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "tortuga",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1a0ec4c1-ce9a-4410-bd4a-da6ae85481d7",
+    "data": [
+      {
+        "text": "¿y para un ",
+        "userDefined": false
+      },
+      {
+        "text": "conejo",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d68f2977-07d2-4e90-8d5a-0e0d9a503fa7",
+    "data": [
+      {
+        "text": "¿y para un ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d1225dc-b53d-40df-a2b5-80dc9cb6938a",
+    "data": [
+      {
+        "text": "más información sobre cuidados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

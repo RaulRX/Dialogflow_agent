@@ -1,0 +1,527 @@
+[
+  {
+    "id": "69b16a7e-5aba-454a-aa06-51c72d9bde91",
+    "data": [
+      {
+        "text": "consejos de ",
+        "userDefined": false
+      },
+      {
+        "text": "higiene",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": " para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d322175-bb2a-442f-8e42-5fa237675d1c",
+    "data": [
+      {
+        "text": "cuidados de un ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7783c53d-f40c-4e1b-8f41-37142d4da080",
+    "data": [
+      {
+        "text": "consejos de ",
+        "userDefined": false
+      },
+      {
+        "text": "higiene",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " para mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "29e19759-881e-44e1-9456-db4dddc85046",
+    "data": [
+      {
+        "text": "¿qué ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentación",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " necesita mi ",
+        "userDefined": false
+      },
+      {
+        "text": "tortuga",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0863f7b0-55a8-4bb7-85a9-c20da0bdb03b",
+    "data": [
+      {
+        "text": "guía de cuidados para un ",
+        "userDefined": false
+      },
+      {
+        "text": "hurón",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "287ab538-26bb-4bfa-bab0-b31a3e7afe82",
+    "data": [
+      {
+        "text": "Revisiones",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " de mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "641e5b41-a1cc-4280-ae47-1261e98748e4",
+    "data": [
+      {
+        "text": "¿cada cuánto tengo que llevar a mi ",
+        "userDefined": false
+      },
+      {
+        "text": "conejo",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " a la ",
+        "userDefined": false
+      },
+      {
+        "text": "revisión",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de26b198-f21b-4271-96a4-e6ca39be2f0d",
+    "data": [
+      {
+        "text": "¿cuáles son los ",
+        "userDefined": false
+      },
+      {
+        "text": "signos de alarma",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": " en una ",
+        "userDefined": false
+      },
+      {
+        "text": "tortuga",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "54697fec-8ac5-4e1d-b42e-942369d97682",
+    "data": [
+      {
+        "text": "¿cómo se ",
+        "userDefined": false
+      },
+      {
+        "text": "desparasita",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " a un ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "988ab48c-c288-46a1-ae19-26df23aa9c03",
+    "data": [
+      {
+        "text": "Información sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "desparasitacion",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d31f8b0-33a7-404c-b4f2-824bd33716d2",
+    "data": [
+      {
+        "text": "Comida de mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d031705-662e-4823-90af-ad597dad63b1",
+    "data": [
+      {
+        "text": "Ejercicio",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " de mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "92634f46-5d14-4eb9-99e9-60393d3c8e90",
+    "data": [
+      {
+        "text": "Vacunacion",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " de mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dc6d6303-b381-4369-af4c-88b5d4034d1e",
+    "data": [
+      {
+        "text": "¿cuándo hay que ",
+        "userDefined": false
+      },
+      {
+        "text": "poner las vacunas",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " a mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1ed4fbec-4a89-49b9-a702-ffed0e99070e",
+    "data": [
+      {
+        "text": "¿qué ",
+        "userDefined": false
+      },
+      {
+        "text": "ejercicio",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " necesita un ",
+        "userDefined": false
+      },
+      {
+        "text": "hurón",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "22d20f33-e306-4ade-bf11-24a24256f542",
+    "data": [
+      {
+        "text": "cuidados de mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7fcde42b-a8c7-452b-aba2-631e4e39f166",
+    "data": [
+      {
+        "text": "¿cuánta ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " necesita un ",
+        "userDefined": false
+      },
+      {
+        "text": "conejo",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "511a9e7a-593f-41ad-9eda-527b3a4fb12c",
+    "data": [
+      {
+        "text": "¿cada cuánto hay que ",
+        "userDefined": false
+      },
+      {
+        "text": "bañar",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": " a un ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "29ca916c-c58d-4d0a-ac13-dbd8342dd3d0",
+    "data": [
+      {
+        "text": "¿Qué le doy de ",
+        "userDefined": false
+      },
+      {
+        "text": "comer",
+        "meta": "@tema_cuidados",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " a mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a70dc405-55bb-40a4-adc7-a7902800aa8c",
+    "data": [
+      {
+        "text": "¿cómo cuido a mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0b15bf12-db5c-46f1-a373-2db8873de3f7",
+    "data": [
+      {
+        "text": "quiero saber cómo cuidar a mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

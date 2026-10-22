@@ -1,0 +1,82 @@
+{
+  "id": "ffbf9679-9881-41e0-a118-caf47ac663f5",
+  "name": "consultar_cuidados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cuidados.consultar",
+      "affectedContexts": [
+        {
+          "name": "cuidados_activo",
+          "lifespan": 5
+        },
+        {
+          "name": "prospecto_activo",
+          "lifespan": 0
+        },
+        {
+          "name": "consultar_cuidados-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "acc0744e-5362-4c9d-96ae-e202256ba3d4",
+          "name": "animal",
+          "required": true,
+          "dataType": "@animal",
+          "value": "$animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿A qué animal te refieres?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e7e2e763-ba86-4580-9710-b8e7c8b384bb",
+          "name": "tema",
+          "required": false,
+          "dataType": "@tema_cuidados",
+          "value": "$tema",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eVale, busco la guía de cuidados de tu $animal.\u003cbreak time\u003d\"1s\"/\u003e$tema.original\u003cbreak time\u003d\"1s\"/\u003eTodavía no tengo conectada la documentación.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

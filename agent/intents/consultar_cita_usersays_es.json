@@ -1,0 +1,231 @@
+[
+  {
+    "id": "47c47c08-25f3-481b-b82e-efe94e1af68b",
+    "data": [
+      {
+        "text": "verificar cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "64242a76-b0b1-4f7e-96a8-11ade26bbc8a",
+    "data": [
+      {
+        "text": "VET 1234",
+        "meta": "@codigo_cita",
+        "alias": "codigo_cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "12524cdb-6215-4591-926b-68441ab36eb6",
+    "data": [
+      {
+        "text": "¿Qué cita tengo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e84cbcf9-e768-4a8b-a15a-1aee4a05aab8",
+    "data": [
+      {
+        "text": "comprueba mi cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "63961782-f221-4a74-846d-f6f6f02e1524",
+    "data": [
+      {
+        "text": "¿cuál es mi próxima cita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d352ec4a-cfbb-41dc-b2aa-0a71bcf4e411",
+    "data": [
+      {
+        "text": "quiero saber los datos de mi cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "56634046-89a6-4c95-99e4-02f8af62c155",
+    "data": [
+      {
+        "text": "¿Puedes mirar mi cita ",
+        "userDefined": false
+      },
+      {
+        "text": "VET 1235",
+        "meta": "@codigo_cita",
+        "alias": "codigo_cita",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c05cc144-f76a-40a8-b9f7-1a421f759d93",
+    "data": [
+      {
+        "text": "¿Puedes mirar mi cita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5c585864-3944-4a8f-8a11-a984ae4d1825",
+    "data": [
+      {
+        "text": "¿Para cuándo es mi cita ",
+        "userDefined": false
+      },
+      {
+        "text": "VET1234",
+        "meta": "@codigo_cita",
+        "alias": "codigo_cita",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e6bbf8a7-f46d-4c7c-a5ff-d686e06d7d00",
+    "data": [
+      {
+        "text": "mi codigo de cita es ",
+        "userDefined": false
+      },
+      {
+        "text": "VET0002",
+        "meta": "@codigo_cita",
+        "alias": "codigo_cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4f8c5103-9d67-4502-9e35-905d8d1dcaff",
+    "data": [
+      {
+        "text": "consultar la cita ",
+        "userDefined": false
+      },
+      {
+        "text": "VET0001",
+        "meta": "@codigo_cita",
+        "alias": "codigo_cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9f995ba7-9fe7-4db3-82e6-d59890840c81",
+    "data": [
+      {
+        "text": "quiero ver mi cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "209aaf4e-58b0-4894-ad88-4b128b64e7bd",
+    "data": [
+      {
+        "text": "¿cuándo tengo la cita?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3996bb1d-31c9-4c79-8c91-d15f3423539c",
+    "data": [
+      {
+        "text": "consultar una cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8269af46-ee4d-4f5a-9019-cbb02613bf25",
+    "data": [
+      {
+        "text": "quiero consultar mi cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

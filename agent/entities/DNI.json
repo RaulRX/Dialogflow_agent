@@ -1,0 +1,9 @@
+{
+  "id": "b4608daf-6cfd-4364-b0c9-4bad0da8bef4",
+  "name": "DNI",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

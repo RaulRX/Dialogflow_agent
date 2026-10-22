@@ -1,0 +1,120 @@
+{
+  "id": "74ce03b1-ab7a-4365-8328-a0f434c23d70",
+  "parentId": "87bedd2b-41d8-4acc-936d-179e2d38d252",
+  "rootParentId": "87bedd2b-41d8-4acc-936d-179e2d38d252",
+  "name": "pedir_cita - yes",
+  "auto": true,
+  "contexts": [
+    "cita_en_curso",
+    "pedir_cita-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.pedir.si",
+      "affectedContexts": [
+        {
+          "name": "cita_confirmada",
+          "lifespan": 10
+        },
+        {
+          "name": "cita_en_curso",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5024e8b4-36c2-4e89-9eb5-f686fd4e9d78",
+          "name": "dni",
+          "required": false,
+          "dataType": "@DNI",
+          "value": "#cita_en_curso.dni",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3f504da4-0e6f-4701-8988-c35acc997c24",
+          "name": "animal",
+          "required": false,
+          "dataType": "@animal",
+          "value": "#cita_en_curso.animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d532462c-f350-4d7c-b818-6bc43df54af8",
+          "name": "fecha",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "#cita_en_curso.fecha",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "34b8f97f-c5cc-4c1f-ae3b-9172db5d35be",
+          "name": "hora",
+          "required": false,
+          "dataType": "@sys.time",
+          "value": "#cita_en_curso.hora",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ce3ea643-8dc6-40e7-8f4d-9170c1b34678",
+          "name": "codigo_cita",
+          "required": false,
+          "dataType": "@codigo_cita",
+          "value": "VET0001",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eHecho, tu cita está confirmada.\u003cbreak time\u003d\"1s\"/\u003eTu código es \u003csay-as interpret-as\u003d\"characters\"\u003e$codigo_cita\u003c/say-as\u003e.\u003cbreak time\u003d\"1s\"/\u003eRepito: \u003csay-as interpret-as\u003d\"characters\"\u003e$codigo_cita\u003c/say-as\u003e.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

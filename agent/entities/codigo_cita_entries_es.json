@@ -1,0 +1,8 @@
+[
+  {
+    "value": "(VET|vet|Vet)[\\s-]?\\d{4}",
+    "synonyms": [
+      "(VET|vet|Vet)[\\s-]?\\d{4}"
+    ]
+  }
+]

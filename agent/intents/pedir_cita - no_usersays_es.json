@@ -1,0 +1,145 @@
+[
+  {
+    "id": "0fc07617-b3c4-4514-91ca-a411b46e0607",
+    "data": [
+      {
+        "text": "ya no la necesito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "503530cd-386c-4614-af0d-abdc1564da71",
+    "data": [
+      {
+        "text": "no la confirmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "306f6fd1-cd4d-4685-99c0-c66e3cf716b9",
+    "data": [
+      {
+        "text": "olvídalo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "866ee81b-db92-4b2f-ba50-ad58f3c090ef",
+    "data": [
+      {
+        "text": "déjalo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1a953820-4b0b-4389-b609-3ce698166af0",
+    "data": [
+      {
+        "text": "no quiero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "01eb361d-dec7-4da3-b547-f7ff5f0b4a41",
+    "data": [
+      {
+        "text": "no la quiero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a51761b3-af85-4f7b-96da-252efaeec0b8",
+    "data": [
+      {
+        "text": "cancelala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8a7a538a-cfc7-4df8-b337-48667c7da4f7",
+    "data": [
+      {
+        "text": "cancela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ef927d31-a483-458b-be9c-052537f22982",
+    "data": [
+      {
+        "text": "mejor no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1ad360ac-a0be-47fc-bd2d-7f3bb339b2bd",
+    "data": [
+      {
+        "text": "no gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ebabb28d-ac4a-4a93-90d4-8dd64784781d",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "value": "convulsiones",
+    "synonyms": [
+      "convulsiones",
+      "convulsion",
+      "convulsionar",
+      "convulsiona",
+      "ataque",
+      "ataques",
+      "convulsionando"
+    ]
+  },
+  {
+    "value": "sangrado",
+    "synonyms": [
+      "sangrado",
+      "sangre",
+      "sangrando",
+      "sangria",
+      "hemorragia",
+      "sangra",
+      "sangrar"
+    ]
+  },
+  {
+    "value": "envenenamiento",
+    "synonyms": [
+      "veneno",
+      "beber veneno",
+      "ha tomado veneno",
+      "ha bebido veneno",
+      "ha ingerido veneno",
+      "ha ingerido algo venenoso",
+      "planta venenosa",
+      "intoxicacion",
+      "se ha intoxicado",
+      "intoxicado",
+      "envenenamiento"
+    ]
+  },
+  {
+    "value": "atropello",
+    "synonyms": [
+      "atropello",
+      "ha sido atropellado",
+      "se ha golpeado",
+      "atropellar",
+      "fuerte golpe",
+      "golpe fuerte",
+      "golpeado fuertemente",
+      "accidente"
+    ]
+  },
+  {
+    "value": "no_respira",
+    "synonyms": [
+      "no respira",
+      "no inhala aire",
+      "sin aire",
+      "sin respirar",
+      "se ahoga",
+      "se ha atragantado",
+      "atragantado",
+      "ahogo",
+      "apenas respira",
+      "le cuesta respirar",
+      "paro respiratorio",
+      "no puede respirar"
+    ]
+  },
+  {
+    "value": "desmayo",
+    "synonyms": [
+      "desmayo",
+      "desmayado",
+      "desmayada",
+      "inconsciente",
+      "inconciente",
+      "colapso",
+      "no se mueve",
+      "respira pero no se mueve",
+      "no se mueve pero respira",
+      "no tiene consciencia",
+      "sin conciencia"
+    ]
+  },
+  {
+    "value": "abdomen_hinchado",
+    "synonyms": [
+      "abdomen hinchado",
+      "tripa hinchada",
+      "barriga hinchada"
+    ]
+  },
+  {
+    "value": "vomito",
+    "synonyms": [
+      "vomito",
+      "ha vomitado",
+      "vomita",
+      "vomitando",
+      "echando todo",
+      "echa todo",
+      "echar afuera",
+      "vomitar",
+      "vomitos"
+    ]
+  },
+  {
+    "value": "diarrea",
+    "synonyms": [
+      "diarrea",
+      "caca suelta",
+      "diarreas",
+      "heces sueltas",
+      "heces blandas",
+      "caca muy blanda",
+      "caca liquida",
+      "heces liquidas",
+      "caga liquido"
+    ]
+  },
+  {
+    "value": "cojera",
+    "synonyms": [
+      "cojera",
+      "anda cojo",
+      "cojea",
+      "no apoya una pata",
+      "no apoya la pata",
+      "cojeando"
+    ]
+  },
+  {
+    "value": "picor",
+    "synonyms": [
+      "picor",
+      "picazon",
+      "se rasca",
+      "rascarse",
+      "le pica"
+    ]
+  },
+  {
+    "value": "estornudos",
+    "synonyms": [
+      "estornudos",
+      "esturnudos",
+      "estornudar",
+      "estornudando"
+    ]
+  },
+  {
+    "value": "falta_apetito",
+    "synonyms": [
+      "falta de apetito",
+      "no come",
+      "no quiere comer",
+      "rechaza la comida",
+      "no quiere la comida",
+      "sin comer"
+    ]
+  }
+]

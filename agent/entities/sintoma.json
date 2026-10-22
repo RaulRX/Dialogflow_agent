@@ -1,0 +1,9 @@
+{
+  "id": "4ed6eca9-c966-415c-9873-e75f07e080cd",
+  "name": "sintoma",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

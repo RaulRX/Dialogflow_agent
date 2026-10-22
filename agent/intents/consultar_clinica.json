@@ -1,0 +1,35 @@
+{
+  "id": "e4c37fae-8b19-48af-863e-676247af9bc7",
+  "name": "consultar_clinica",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "clinica.info",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eNuestro horario es de lunes a viernes de 9 a 20 horas.\u003cbreak time\u003d\"1s\"/\u003eLos sábados, de 10 a 14 horas.\u003cbreak time\u003d\"1s\"/\u003eLos domingos cerramos.\u003cbreak time\u003d\"1s\"/\u003eEstamos en Calle Ficticia 12, Madrid.\u003cbreak time\u003d\"1s\"/\u003ePara urgencias, llama las 24 horas al \u003csay-as interpret-as\u003d\"telephone\"\u003e900000000\u003c/say-as\u003e.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

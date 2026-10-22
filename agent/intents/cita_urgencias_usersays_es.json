@@ -1,0 +1,316 @@
+[
+  {
+    "id": "99476dc3-786e-4446-8654-82c196328ff0",
+    "data": [
+      {
+        "text": "Necesito ir de urgencias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "eca0ee9e-4321-4d69-9391-3e9578360d7d",
+    "data": [
+      {
+        "text": "urgente, mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " tiene la ",
+        "userDefined": false
+      },
+      {
+        "text": "barriga hinchada",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0dc23e31-3f82-4d0b-bd63-0ec785d26ad9",
+    "data": [
+      {
+        "text": "mi DNI es ",
+        "userDefined": false
+      },
+      {
+        "text": "12345678Z",
+        "meta": "@DNI",
+        "alias": "dni",
+        "userDefined": false
+      },
+      {
+        "text": " y mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cojea",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4ee30904-e6cc-42d1-b4e6-34827f2f6b93",
+    "data": [
+      {
+        "text": "Necesito una cita urgente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a84ac855-ff04-43de-b3ea-d3b1ec3cff7c",
+    "data": [
+      {
+        "text": "necesito atención urgente para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "tortuga",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0b582d84-d3ee-4342-a094-4339dd4de334",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perrito",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vomita",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      },
+      {
+        "text": " y es urgente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e27557d1-649e-4a2f-b2f6-b582a6abced0",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "hurón",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "no se mueve pero respira",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "abcd3415-ee15-43d4-b7d7-f37334395f42",
+    "data": [
+      {
+        "text": "mi animal se ha ",
+        "userDefined": false
+      },
+      {
+        "text": "golpeado fuertemente",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      },
+      {
+        "text": " contra el suelo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "50b09960-680c-4a08-8082-db10380d5c38",
+    "data": [
+      {
+        "text": "Necesito ayuda!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "83a068ed-56c3-49b5-b7aa-af72562dd3ff",
+    "data": [
+      {
+        "text": "mi mascota no para de ",
+        "userDefined": false
+      },
+      {
+        "text": "sangrar",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f91f3792-f435-4383-b24e-1be24ab83828",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "no respira",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9d791947-3ac6-4da4-a236-4d274af9b2d3",
+    "data": [
+      {
+        "text": "mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " está ",
+        "userDefined": false
+      },
+      {
+        "text": "convulsionando",
+        "meta": "@sintoma",
+        "alias": "sintoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "75ac6076-9a1f-4029-a49f-8c61f8a53576",
+    "data": [
+      {
+        "text": "es una urgencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "de0e541b-6b5f-43dd-b90d-23c504abd974",
+    "data": [
+      {
+        "text": "tengo una urgencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

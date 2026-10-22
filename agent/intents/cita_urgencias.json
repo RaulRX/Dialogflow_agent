@@ -1,0 +1,102 @@
+{
+  "id": "db39f637-2d7e-4ba4-82a3-7dd4d79d2818",
+  "name": "cita_urgencias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.urgencia",
+      "affectedContexts": [
+        {
+          "name": "urgencia_en_curso",
+          "lifespan": 5
+        },
+        {
+          "name": "cita_urgencias-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b8d1cd57-44bc-49d2-9ff6-0d25f40b3bed",
+          "name": "dni",
+          "required": true,
+          "dataType": "@DNI",
+          "value": "$dni",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es tu DNI? Así podremos identificarte."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1a49eafc-8d4c-46ab-8af1-44fc69f8d312",
+          "name": "animal",
+          "required": true,
+          "dataType": "@animal",
+          "value": "$animal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué animal es?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "15f76574-bf95-4f9e-b2c2-5715c7ee0612",
+          "name": "sintoma",
+          "required": true,
+          "dataType": "@sintoma",
+          "value": "$sintoma",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Qué le ocurre? Así sabremos cómo actuar."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eEntendido, \u003cprosody rate\u003d\"slow\"\u003etu $animal: $sintoma.original\u003c/prosody\u003e.\u003cbreak time\u003d\"1s\"/\u003e¿Quieres que te reserve un hueco inmediato?\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

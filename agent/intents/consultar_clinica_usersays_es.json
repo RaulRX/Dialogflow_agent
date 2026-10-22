@@ -1,0 +1,171 @@
+[
+  {
+    "id": "563b020c-b9ba-445e-b3bd-1d2c24eee595",
+    "data": [
+      {
+        "text": "¿Tenéis servicio de urgencias?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0d087d8a-ea1a-43ce-a714-c5cd6e5bc001",
+    "data": [
+      {
+        "text": "teléfono de urgencias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "57d40a95-cfa1-436e-96d2-6a207faa6eb1",
+    "data": [
+      {
+        "text": "¿cuál es el teléfono?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3e146425-ac80-4a17-b6b1-233edb25f7a8",
+    "data": [
+      {
+        "text": "¿cómo llego a la clínica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f2c3239d-2824-4884-8c98-4780d1ecb7cc",
+    "data": [
+      {
+        "text": "¿cuál es vuestra dirección?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "733af08a-f86c-4593-9f0f-3c511b010465",
+    "data": [
+      {
+        "text": "¿dónde estáis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d5028286-8283-4f56-8fb8-091d7f9d0478",
+    "data": [
+      {
+        "text": "¿a qué hora cerráis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7b1f8f24-8acb-4189-942f-a7435a622109",
+    "data": [
+      {
+        "text": "¿abrís los domingos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "33f8de81-5b2c-453e-b034-e96ae0003064",
+    "data": [
+      {
+        "text": "¿abrís los sábados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c5ab8570-bb58-4b5a-a686-cac09dcf2cc8",
+    "data": [
+      {
+        "text": "¿cuándo abrís?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d967e982-9af9-40a7-94cf-3b42216a31f8",
+    "data": [
+      {
+        "text": "¿cuál es el horario?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bb113810-ba27-4f65-a5a8-1ed4cf6ed2ae",
+    "data": [
+      {
+        "text": "horario de la clinica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b682e941-b4dd-4bc6-9801-c6892fc2d989",
+    "data": [
+      {
+        "text": "¿A qué hora abrís?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "description": "Asistente de voz de una clínica veterinaria. Pide citas normales y de urgencia, consulta citas por código, informa de horarios y resuelve dudas sobre prospectos de medicamentos y cuidados de mascotas.",
+  "language": "es",
+  "shortDescription": "Asistente de voz de una clínica veterinaria",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Veterinaria",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "29281f5be01b4fce989480a3f0c62c15",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

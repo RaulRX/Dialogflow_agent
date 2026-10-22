@@ -1,0 +1,45 @@
+{
+  "id": "aec7bdbb-10d9-4221-8eaf-c1abca2ebe59",
+  "parentId": "db39f637-2d7e-4ba4-82a3-7dd4d79d2818",
+  "rootParentId": "db39f637-2d7e-4ba4-82a3-7dd4d79d2818",
+  "name": "cita_urgencias - yes",
+  "auto": true,
+  "contexts": [
+    "urgencia_en_curso",
+    "cita_urgencias-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.urgencia.si",
+      "affectedContexts": [
+        {
+          "name": "urgencia_en_curso",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eHueco inmediato reservado.\u003cbreak time\u003d\"1s\"/\u003eVen ya a la clínica.\u003cbreak time\u003d\"1s\"/\u003eSi necesitas ayuda de camino, llama al \u003csay-as interpret-as\u003d\"telephone\"\u003e900000000\u003c/say-as\u003e.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

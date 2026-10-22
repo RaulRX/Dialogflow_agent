@@ -1,0 +1,125 @@
+{
+  "id": "87bedd2b-41d8-4acc-936d-179e2d38d252",
+  "name": "pedir_cita",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.pedir",
+      "affectedContexts": [
+        {
+          "name": "cita_en_curso",
+          "lifespan": 5
+        },
+        {
+          "name": "pedir_cita-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "cita_urgencias-followup",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "67641709-ef12-47b0-afb7-e1dfd6fc8c06",
+          "name": "dni",
+          "required": true,
+          "dataType": "@DNI",
+          "value": "$dni",
+          "defaultValue": "#urgencia_en_curso.dni",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Para identificarte, ¿cuál es tu DNI?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "17319a55-2615-488c-8ed5-812456e91d0a",
+          "name": "animal",
+          "required": true,
+          "dataType": "@animal",
+          "value": "$animal",
+          "defaultValue": "#urgencia_en_curso.animal",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué animal es la cita?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0d9f2de9-7b89-40dd-a1ea-befbac4fb5b6",
+          "name": "fecha",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$fecha",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué día quieres la cita?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "891fff5c-c229-4ea0-b206-c80514efc101",
+          "name": "hora",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$hora",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿A qué hora la quieres?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eResumo: cita para tu $animal, el día $fecha.original a las $hora.original, con DNI \u003csay-as interpret-as\u003d\"characters\"\u003e$dni\u003c/say-as\u003e.\u003cbreak time\u003d\"1s\"/\u003e¿Quieres que la confirme?\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "69ef4bf4-64e2-4944-a8d6-39015ab8cf62",
+  "name": "animal",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

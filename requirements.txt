@@ -8,9 +8,8 @@ google-cloud-dialogflow==2.53.0
 google-genai==2.29.0
 
 # OCR
-pytesseract
-pillow
-pymupdf
+pytesseract==0.3.13
+pillow==12.3.0
 
 # Voz
 sounddevice==0.5.6

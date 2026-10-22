@@ -1,0 +1,55 @@
+{
+  "id": "44a33372-3752-4443-89ea-4411affdac41",
+  "name": "consultar_cita",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.consultar",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8f9c3c14-ddf6-4f14-a9fd-cd1ea4087385",
+          "name": "codigo_cita",
+          "required": true,
+          "dataType": "@codigo_cita",
+          "value": "$codigo_cita",
+          "defaultValue": "#cita_confirmada.codigo_cita",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es el código de tu cita? Empieza por V E T y lleva cuatro números."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eHe encontrado tu cita con código \u003csay-as interpret-as\u003d\"characters\"\u003e$codigo_cita\u003c/say-as\u003e.\u003cbreak time\u003d\"1s\"/\u003eEn cuanto conecte con el sistema te daré la fecha y la hora.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

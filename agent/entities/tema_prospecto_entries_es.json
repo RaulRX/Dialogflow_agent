@@ -1,0 +1,97 @@
+[
+  {
+    "value": "dosis",
+    "synonyms": [
+      "dosis",
+      "cantidad",
+      "cuanta cantidad",
+      "cuanto hay que dar",
+      "cuanto le doy",
+      "cuanta dosis",
+      "cantidad recomendada",
+      "cuanto le echo",
+      "cuanto tengo que echarle"
+    ]
+  },
+  {
+    "value": "modo_aplicacion",
+    "synonyms": [
+      "modo de aplicacion",
+      "como tengo que aplicarlo",
+      "como se da",
+      "como se aplica",
+      "como se administra",
+      "como se toma",
+      "modo de empleo",
+      "como se aplicaria"
+    ]
+  },
+  {
+    "value": "tiempo_aplicacion",
+    "synonyms": [
+      "tiempo de aplicacion",
+      "cuanto tiempo",
+      "cuantos dias",
+      "durante cuanto tiempo",
+      "duracion",
+      "duracion del tratamiento",
+      "cuanto dias se lo aplico"
+    ]
+  },
+  {
+    "value": "contraindicaciones",
+    "synonyms": [
+      "contraindicaciones",
+      "contraindicacion",
+      "cuando no se debe dar",
+      "posibles problemas",
+      "no se puede dar"
+    ]
+  },
+  {
+    "value": "efectos_secundarios",
+    "synonyms": [
+      "efectos secundarios",
+      "reacciones",
+      "reacción",
+      "reacciones adversas",
+      "reaccion adversa",
+      "efecto secundario",
+      "problemas puede tener",
+      "problemas a tener en cuenta"
+    ]
+  },
+  {
+    "value": "conservacion",
+    "synonyms": [
+      "conservacion",
+      "como se guarda",
+      "como se conserva",
+      "donde lo tengo que guardar",
+      "como tengo que guardarlo",
+      "almacenamiento"
+    ]
+  },
+  {
+    "value": "caducidad",
+    "synonyms": [
+      "caducidad",
+      "caduca",
+      "cuando caduca",
+      "fecha de caducidad"
+    ]
+  },
+  {
+    "value": "indicaciones",
+    "synonyms": [
+      "indicaciones",
+      "para que sirve",
+      "para que se usa",
+      "para que usos",
+      "usos",
+      "uso",
+      "para que es bueno",
+      "para que es benficioso"
+    ]
+  }
+]

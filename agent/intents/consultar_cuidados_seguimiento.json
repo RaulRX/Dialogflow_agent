@@ -1,0 +1,82 @@
+{
+  "id": "9cd36296-1793-4604-b243-2e22beb07611",
+  "parentId": "ffbf9679-9881-41e0-a118-caf47ac663f5",
+  "rootParentId": "ffbf9679-9881-41e0-a118-caf47ac663f5",
+  "name": "consultar_cuidados_seguimiento",
+  "auto": true,
+  "contexts": [
+    "cuidados_activo",
+    "consultar_cuidados-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cuidados.seguimiento",
+      "affectedContexts": [
+        {
+          "name": "cuidados_activo",
+          "lifespan": 5
+        },
+        {
+          "name": "prospecto_activo",
+          "lifespan": 0
+        },
+        {
+          "name": "consultar_cuidados-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2eba3fa4-bed4-4140-a701-cdfd4f4e93ff",
+          "name": "animal",
+          "required": false,
+          "dataType": "@animal",
+          "value": "$animal",
+          "defaultValue": "#cuidados_activo.animal",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4476f4e3-e189-47ab-a49a-41c894f4a4bc",
+          "name": "tema",
+          "required": false,
+          "dataType": "@tema_cuidados",
+          "value": "$tema",
+          "defaultValue": "#cuidados_activo.tema",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eVale, busco la guía de cuidados de tu $animal.\u003cbreak time\u003d\"1s\"/\u003e$tema.original\u003cbreak time\u003d\"1s\"/\u003eTodavía no tengo conectada la documentación.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

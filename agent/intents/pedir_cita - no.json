@@ -1,0 +1,45 @@
+{
+  "id": "83f8f25d-c46a-420a-be02-da53c6bb8d0a",
+  "parentId": "87bedd2b-41d8-4acc-936d-179e2d38d252",
+  "rootParentId": "87bedd2b-41d8-4acc-936d-179e2d38d252",
+  "name": "pedir_cita - no",
+  "auto": true,
+  "contexts": [
+    "cita_en_curso",
+    "pedir_cita-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.pedir.no",
+      "affectedContexts": [
+        {
+          "name": "cita_en_curso",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eDe acuerdo, no he reservado nada.\u003cbreak time\u003d\"1s\"/\u003e¿Te ayudo con otra cosa?\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
