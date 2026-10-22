@@ -1,0 +1,485 @@
+[
+  {
+    "id": "57cde101-cf83-4f7f-ac76-3e3b2dd6207a",
+    "data": [
+      {
+        "text": "pedir cita para ",
+        "userDefined": false
+      },
+      {
+        "text": "la semana que viene",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ca4348e6-1909-480d-aa5b-5a4009e9dd52",
+    "data": [
+      {
+        "text": "concertar cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1da5591b-f733-4bcf-b7be-b344cd33dd51",
+    "data": [
+      {
+        "text": "cita para ",
+        "userDefined": false
+      },
+      {
+        "text": "dentro de dos semanas",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e0844bea-fdee-40b8-a5d2-7d215e57f2ff",
+    "data": [
+      {
+        "text": "reservar cita para mi mascota ",
+        "userDefined": false
+      },
+      {
+        "text": "pasado mañana",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.time",
+        "alias": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "54cc2ed3-a45d-4fbb-a8da-738dd7172d63",
+    "data": [
+      {
+        "text": "quiero una cita para el ",
+        "userDefined": false
+      },
+      {
+        "text": "martes que viene",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "64294ebc-1009-4e38-836c-c0ca7350ac28",
+    "data": [
+      {
+        "text": "pedir cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "tortuga",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7094fc3f-c30a-4351-a678-b7f5773f957a",
+    "data": [
+      {
+        "text": "quiero cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": ", mi DNI es ",
+        "userDefined": false
+      },
+      {
+        "text": "12345678Z",
+        "meta": "@DNI",
+        "alias": "dni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9040b7a4-fadc-4ec6-98df-aacec1ee518d",
+    "data": [
+      {
+        "text": "quiero una cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "lunes",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d0dd7c87-2c90-4bb6-8791-d630ce183bbe",
+    "data": [
+      {
+        "text": "necesito una cita para el ",
+        "userDefined": false
+      },
+      {
+        "text": "próximo martes",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "adbde072-5497-4ea1-85e9-62734ad95a57",
+    "data": [
+      {
+        "text": "mi DNI es ",
+        "userDefined": false
+      },
+      {
+        "text": "12345678Z",
+        "meta": "@DNI",
+        "alias": "dni",
+        "userDefined": false
+      },
+      {
+        "text": " y quiero una cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "02ff6e1c-57c3-4ce7-9e08-f522d5711bd2",
+    "data": [
+      {
+        "text": "quiero una cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a436f785-f50c-4cbf-bede-e240b6d11f4f",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "lunes",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.time",
+        "alias": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "90faddaa-891e-4e87-a49c-4b5ce90e5a87",
+    "data": [
+      {
+        "text": "me gustaría pedir hora para mi mascota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "28b8dc57-b3c5-4755-8c0f-470d92f37801",
+    "data": [
+      {
+        "text": "Quiero una cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "huroncillo",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " para el ",
+        "userDefined": false
+      },
+      {
+        "text": "15 de Noviembre",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "5 de la tarde",
+        "meta": "@sys.time",
+        "alias": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4443bb7c-69bb-4624-9913-f47e5d766963",
+    "data": [
+      {
+        "text": "quiero una cita para ",
+        "userDefined": false
+      },
+      {
+        "text": "esta tarde",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.time",
+        "alias": "hora",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "393dafbc-2591-4130-ad54-c435b5f5ed2a",
+    "data": [
+      {
+        "text": "Pedir cita para vacunar a mi ",
+        "userDefined": false
+      },
+      {
+        "text": "huron",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f3c94864-4ed5-4b98-953b-5c9456f970c1",
+    "data": [
+      {
+        "text": "Mi DNI es ",
+        "userDefined": false
+      },
+      {
+        "text": "12345678Z",
+        "meta": "@DNI",
+        "alias": "dni",
+        "userDefined": false
+      },
+      {
+        "text": ", quiero pedir cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "conejo",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "45b3d59a-a6f1-4cea-bf83-72b22f0d555e",
+    "data": [
+      {
+        "text": "Quiero reservar cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      },
+      {
+        "text": " por la tarde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a274e8b2-cce0-496e-8ef9-07f5cc3083aa",
+    "data": [
+      {
+        "text": "quisiera una cita para el ",
+        "userDefined": false
+      },
+      {
+        "text": "viernes",
+        "meta": "@sys.date",
+        "alias": "fecha",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.time",
+        "alias": "hora",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1455874e-6ab0-4378-9a7b-a20f06ff5d62",
+    "data": [
+      {
+        "text": "Necesito una cita para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2ecd7b81-c891-4225-8520-f99c97de0e85",
+    "data": [
+      {
+        "text": "Quiero pedir una cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

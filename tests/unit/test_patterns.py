@@ -107,5 +107,7 @@ class TestGroundTruthDocuments:
 
         assert {"date", "temperature"} <= set(fields)
 
-    def test_should_find_ten_reference_documents(self):
-        assert len(list(DOCUMENTS_DIR.glob("*.txt"))) == 10
+    def test_should_find_the_eleven_reference_documents(self):
+        assert len(list(DOCUMENTS_DIR.glob("prospecto_*.txt"))) == 5
+        assert len(list(DOCUMENTS_DIR.glob("cuidados_*.txt"))) == 5
+        assert len(list(DOCUMENTS_DIR.glob("clinica_*.txt"))) == 1

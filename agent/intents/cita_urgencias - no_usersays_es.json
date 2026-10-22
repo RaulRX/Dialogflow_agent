@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1c6f69a8-e11c-4827-889e-e8427838b1b9",
+    "data": [
+      {
+        "text": "mejor otro dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6d5b7d6d-bc69-4c5a-b148-607ae1849887",
+    "data": [
+      {
+        "text": "ya no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "33223c36-0fdc-4757-a2e6-ee8bbf8666e9",
+    "data": [
+      {
+        "text": "no es urgente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "98a58693-eede-4645-8bb5-4ffc4290f1d4",
+    "data": [
+      {
+        "text": "puedo esperar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "629839bd-a6aa-4f85-a59a-f7b7a01c43bc",
+    "data": [
+      {
+        "text": "no gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c775a10b-b71d-40ca-9512-d6d1dfea8a53",
+    "data": [
+      {
+        "text": "prefiero cita normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "232a8580-ff4c-4fce-9973-e282f228d411",
+    "data": [
+      {
+        "text": "mejor una cita normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8f95178f-4848-4333-8069-dd2a2bbe5cae",
+    "data": [
+      {
+        "text": "no es tan grave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7a07c910-d469-4462-8afa-c15d62440e3d",
+    "data": [
+      {
+        "text": "no hace falta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ebe48928-29aa-4818-acf1-908d9fd067ab",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

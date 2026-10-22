@@ -1,0 +1,45 @@
+{
+  "id": "b371f52f-ce99-4228-868c-0b8fe0bfe44f",
+  "parentId": "db39f637-2d7e-4ba4-82a3-7dd4d79d2818",
+  "rootParentId": "db39f637-2d7e-4ba4-82a3-7dd4d79d2818",
+  "name": "cita_urgencias - no",
+  "auto": true,
+  "contexts": [
+    "urgencia_en_curso",
+    "cita_urgencias-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cita.urgencia.no",
+      "affectedContexts": [
+        {
+          "name": "urgencia_en_curso",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eDe acuerdo, sin hueco inmediato.\u003cbreak time\u003d\"1s\"/\u003eSi quieres, te pido una cita normal.\u003cbreak time\u003d\"1s\"/\u003eSolo dime: quiero una cita.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

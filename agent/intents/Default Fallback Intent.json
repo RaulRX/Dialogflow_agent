@@ -1,0 +1,36 @@
+{
+  "id": "415eeefb-fb01-41da-8db4-802c4fea9452",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003ePerdona, no te he entendido.\u003cbreak time\u003d\"1s\"/\u003e¿Puedes repetirlo?\u003c/speak\u003e",
+            "\u003cspeak\u003eNo he captado eso.\u003cbreak time\u003d\"1s\"/\u003ePuedo ayudarte con citas, urgencias, horarios, medicamentos o cuidados.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

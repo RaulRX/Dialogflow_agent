@@ -1,0 +1,449 @@
+[
+  {
+    "id": "f2d5ef65-af02-47df-9d20-68ef09d24f83",
+    "data": [
+      {
+        "text": "quiero saber detalles del ",
+        "userDefined": false
+      },
+      {
+        "text": "pulgaestop",
+        "meta": "@medicamento",
+        "alias": "medicamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ade69dcf-4acb-487a-8188-39946c1d2955",
+    "data": [
+      {
+        "text": "modo de aplicacion",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "efectos secundarios",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "contraindicaciones",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "cenpet",
+        "meta": "@medicamento",
+        "alias": "medicamento",
+        "userDefined": true
+      },
+      {
+        "text": " para un ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c2e8da98-0f84-4e8c-aa27-0bb9828756c0",
+    "data": [
+      {
+        "text": "¿y ",
+        "userDefined": false
+      },
+      {
+        "text": "durante cuanto tiempo",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "se aplica",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5f7260ee-7c72-45cb-a754-b56fe06781e6",
+    "data": [
+      {
+        "text": "y los ",
+        "userDefined": false
+      },
+      {
+        "text": "efectos secundarios",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "zenpet",
+        "meta": "@medicamento",
+        "alias": "medicamento",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3ed649d2-c00b-4d21-9c9e-0edd80724604",
+    "data": [
+      {
+        "text": "¿y con ",
+        "userDefined": false
+      },
+      {
+        "text": "otisan",
+        "meta": "@medicamento",
+        "alias": "medicamento",
+        "userDefined": false
+      },
+      {
+        "text": " para un ",
+        "userDefined": false
+      },
+      {
+        "text": "hurón",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "34349493-d7e3-4c6a-a95c-e59531984268",
+    "data": [
+      {
+        "text": "¿y el ",
+        "userDefined": false
+      },
+      {
+        "text": "vermiclear",
+        "meta": "@medicamento",
+        "alias": "medicamento",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f3d8272a-d026-4048-8257-e5d5892ace1a",
+    "data": [
+      {
+        "text": "¿y el ",
+        "userDefined": false
+      },
+      {
+        "text": "modo de aplicacion",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c4babf23-4760-41e4-9031-e34faf1976bf",
+    "data": [
+      {
+        "text": "¿y la ",
+        "userDefined": false
+      },
+      {
+        "text": "aplicacion",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "571e17c3-2e06-4f3a-9c4f-1432119bb3a0",
+    "data": [
+      {
+        "text": "¿y ",
+        "userDefined": false
+      },
+      {
+        "text": "como se aplica",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6b489d57-177f-4573-bebc-5f73d69bb787",
+    "data": [
+      {
+        "text": "¿y ",
+        "userDefined": false
+      },
+      {
+        "text": "como se conserva",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e63e3ee0-f40f-49ef-8e70-fc7c22d1e706",
+    "data": [
+      {
+        "text": "¿y ",
+        "userDefined": false
+      },
+      {
+        "text": "cuando caduca",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b7db5951-a43c-48c1-ae0d-360b98d4ccfa",
+    "data": [
+      {
+        "text": "¿y las ",
+        "userDefined": false
+      },
+      {
+        "text": "contraindicaciones",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "024499e5-3da5-4046-b3f3-f90d3a5edc8c",
+    "data": [
+      {
+        "text": "¿y la ",
+        "userDefined": false
+      },
+      {
+        "text": "dosis",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2bb4961f-8585-4e4e-8953-d67bd9691202",
+    "data": [
+      {
+        "text": "¿y los ",
+        "userDefined": false
+      },
+      {
+        "text": "efectos secundarios",
+        "meta": "@tema_prospecto",
+        "alias": "tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "eea92547-aed3-4c41-8abd-3c787bfa81d4",
+    "data": [
+      {
+        "text": "¿y para mi ",
+        "userDefined": false
+      },
+      {
+        "text": "perro",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c4d9e514-9891-4f88-8241-e7c223216a61",
+    "data": [
+      {
+        "text": "¿y para un ",
+        "userDefined": false
+      },
+      {
+        "text": "conejo",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3ccb7fb8-bb92-4811-b589-beae0e2b28b6",
+    "data": [
+      {
+        "text": "¿y para un ",
+        "userDefined": false
+      },
+      {
+        "text": "gato",
+        "meta": "@animal",
+        "alias": "animal",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

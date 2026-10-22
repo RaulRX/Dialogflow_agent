@@ -1,0 +1,67 @@
+[
+  {
+    "value": "perro",
+    "synonyms": [
+      "perro",
+      "perros",
+      "perrito",
+      "perrita",
+      "perritos",
+      "perritas",
+      "cachorro",
+      "cachorros",
+      "can",
+      "canes",
+      "canino",
+      "caninos",
+      "sabueso"
+    ]
+  },
+  {
+    "value": "gato",
+    "synonyms": [
+      "gato",
+      "gatos",
+      "minino",
+      "gatito",
+      "gatitos",
+      "gatita",
+      "felino",
+      "felinos"
+    ]
+  },
+  {
+    "value": "conejo",
+    "synonyms": [
+      "conejo",
+      "conejos",
+      "conejitos",
+      "conejito",
+      "conejita",
+      "conejitas",
+      "conejillo",
+      "conejillos"
+    ]
+  },
+  {
+    "value": "huron",
+    "synonyms": [
+      "hurones",
+      "huroncito",
+      "huroncitos",
+      "uron",
+      "huron",
+      "huroncillo"
+    ]
+  },
+  {
+    "value": "tortuga",
+    "synonyms": [
+      "tortuga",
+      "tortugas",
+      "tortuguitas",
+      "tortuguita",
+      "tortugita"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "dee70a6e-1f21-4347-8297-4f6245508eb5",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eHola, soy el asistente de la clínica veterinaria.\u003cbreak time\u003d\"1s\"/\u003ePuedo pedir una cita, atender una urgencia, consultar una cita, darte los horarios o resolver dudas sobre medicamentos y cuidados.\u003cbreak time\u003d\"1s\"/\u003e¿En qué te ayudo?\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

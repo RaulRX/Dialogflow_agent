@@ -1,0 +1,9 @@
+{
+  "id": "ad614afe-1b39-4ea2-bbbf-ea9a727bca64",
+  "name": "codigo_cita",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

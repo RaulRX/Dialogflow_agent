@@ -1,0 +1,96 @@
+{
+  "id": "4359dee8-ceda-4796-9800-41c3be572607",
+  "parentId": "f68775b7-d8f9-4d4e-bdd7-5ab9d49a7efb",
+  "rootParentId": "f68775b7-d8f9-4d4e-bdd7-5ab9d49a7efb",
+  "name": "consultar_prospecto_seguimiento",
+  "auto": true,
+  "contexts": [
+    "prospecto_activo",
+    "consultar_prospecto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prospecto.seguimiento",
+      "affectedContexts": [
+        {
+          "name": "prospecto_activo",
+          "lifespan": 5
+        },
+        {
+          "name": "cuidados_activo",
+          "lifespan": 0
+        },
+        {
+          "name": "consultar_prospecto-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "22e6530d-2527-4f0f-ab3e-257f7ff6f22e",
+          "name": "medicamento",
+          "required": false,
+          "dataType": "@medicamento",
+          "value": "$medicamento",
+          "defaultValue": "#prospecto_activo.medicamento",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e2ddb229-7393-47f1-b2a6-c389f21a8d0b",
+          "name": "animal",
+          "required": false,
+          "dataType": "@animal",
+          "value": "$animal",
+          "defaultValue": "#prospecto_activo.animal",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "44eb8c92-4f4e-4134-95d9-38cc7020328a",
+          "name": "tema",
+          "required": false,
+          "dataType": "@tema_prospecto",
+          "value": "$tema",
+          "defaultValue": "#prospecto_activo.tema",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "\u003cspeak\u003eVale, busco en el prospecto de $medicamento, para tu $animal.\u003cbreak time\u003d\"1s\"/\u003e$tema.original\u003cbreak time\u003d\"1s\"/\u003eTodavía no tengo conectada la documentación.\u003c/speak\u003e"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
